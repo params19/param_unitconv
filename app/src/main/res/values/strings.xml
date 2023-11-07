@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">units_conv</string>
+    <string name="temperature_converter">Temperature converter</string>
+    <string name="enter_the_temperature" />
+    <string name="celsius_to_fahrenheit" />
+    <string name="fahrenheit_to_celsiuse">fahrenheit to celsiuse</string>
+    <string name="_0_degrees" />
+    <string name="Enter_the_Temperature" />
+    <string name="enter_the_temperaturee">Enter_the_Temperature</string>
+    <string name="Enter_The_Temp">Enter The Temperature</string>
+    <string name="temp_convereter">Temperature Convereter</string>
+    <string name="temp_conv">Temperature Converter</string>
+    <string name="cel_to_fah">Celsius To Fahrenheit</string>
+    <string name="fah_to_cel">Fahrenheit To Celsius</string>
+    <string name="__0_degrees">0 Degrees</string>
+    <string name="enter_the_value_in_kg">Enter the value in kg</string>
+    <string name="enter_the_value_in_kg_">Enter the value in Kg :</string>
+    <string name="weight_converter__">Weight Converter</string>
+    <string name="convert">Convert</string>
+    <string name="_0_grams">0 grams</string>
+    <string name="enter_the_value__">Enter the value</string>
+    <string name="temperature_converter___">Temperature Converter</string>
+    <string name="cel_to_heit">Celsius to Fahrenheit</string>
+    <string name="heit_to_cel">Fahrenheit to Celsius</string>
+    <string name="_0_degrees__">0 degrees</string>
+    <string name="heit_to_cel_">Fahrenheit To Celsius</string>
+    <string name="cel_to_heit_">Celsius To Fahrenheit</string>
+    <string name="length_d">Length</string>
+    <string name="mass">Mass</string>
+    <string name="area">Area</string>
+    <string name="volume">Volume</string>
+    <string name="length">Length</string>
+    <string name="area_">Area</string>
+    <string name="volume_">Volume</string>
+    <string name="temperature__">Temperature</string>
+    <string name="unit_converter_">Unit Converter</string>
+</resources>

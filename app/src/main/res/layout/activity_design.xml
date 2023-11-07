@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Design">
+
+    <TextView
+        android:id="@+id/text_field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="@string/unit_converter_"
+        android:textAlignment="center"
+        android:layout_marginTop="60dp"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textColor="#050505"
+
+        />
+
+    <Button
+        android:layout_width="174dp"
+        android:layout_height="140dp"
+        android:layout_marginTop="52dp"
+        android:text="@string/length"
+        android:textSize="23sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.067"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/text_field"
+        android:backgroundTint="#304DDD"
+        />
+
+    <Button
+        android:layout_width="169dp"
+        android:layout_height="144dp"
+        android:layout_marginTop="52dp"
+        android:text="@string/area_"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.933"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/text_field"
+        android:backgroundTint="@color/green"/>
+
+    <Button
+        android:layout_width="173dp"
+        android:layout_height="153dp"
+        android:layout_marginTop="256dp"
+        android:text="@string/volume_"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.067"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/text_field"
+        android:backgroundTint="#57B6583A"/>
+
+    <Button
+        android:layout_width="173dp"
+        android:layout_height="155dp"
+        android:layout_marginTop="256dp"
+        android:text="@string/temperature__"
+        android:textSize="21.5sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.932"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/text_field" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
